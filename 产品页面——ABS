@@ -1,0 +1,42 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div style="height: auto;margin-left: 13%;">
+    <form >
+        <fieldset style="height:auto;width: 500px;border-radius: 30px;border-style: dotted;border-width: 2px;border-color: #00aeef">
+            <legend style="font-size: 28px;font-family:微软雅黑;color: #2c8ece;background-color: transparent;text-align: left">产品参数</legend>
+            <table style="font-size: 18px;width: 600px;font-family:微软雅黑;color: #3e3a39;text-align: left;margin-top: 25px;
+                          margin-left: 30px;margin-bottom:25px;line-height: 30px">
+                <tr>
+                    <td>耗材规格：   </td>
+                    <td>500g/1000g</td>
+                </tr>
+                <tr>
+                    <td> 耗材颜色：</td>
+                    <td>白的、蓝色、果绿色、橙黄色</td>
+                </tr>
+                <tr>
+                    <td>500g：</td>
+                    <td>70.00元</td>
+                </tr>
+                <tr>
+                    <td>1000g：</td>
+                    <td>99.00元</td>
+                </tr>
+                <tr>
+                    <td style="width: 240px">批量购买其他规格请联系客服</td>
+                    <td>Tel：0871-65918203</td>
+                </tr>
+                <tr>
+                    <td> </td>
+                    <td>QQ:3264667410</td>
+                </tr>
+            </table>
+        </fieldset>
+    </form>
+</div>
+</body>
+</html>
