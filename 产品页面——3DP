@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div style="height: auto;margin-left: 13%;" >
+    <form >
+        <fieldset style="height:auto;width: 500px;border-radius: 30px;border-style: dotted;border-width: 2px;border-color: #00aeef">
+            <legend style="font-size: 28px;font-family:微软雅黑;color: #2c8ece;background-color: transparent;text-align: left">产品参数</legend>
+            <table style="font-size: 18px;width: 500px;margin-left: 10px;font-family:微软雅黑;color: #3e3a39;text-align: left;margin-top: 25px;
+                          margin-left: 60px;margin-bottom:25px;line-height: 30px";>
+                <tr>
+                    <td>设备尺寸：</td>
+                    <td>373（L)X446(H)X432(W)mm </td>
+                </tr>
+                <tr>
+                    <td>系统环境：</td>
+                    <td>Windows; Linux; Mac OS</td>
+                </tr>
+                <tr>
+                    <td>最大打印尺寸：</td>
+                    <td>160mm*160mm*160mm</td>
+                </tr>
+                <tr>
+                    <td>数据传输方式：</td>
+                    <td>SD card 或 USB</td>
+                </tr>
+                <tr>
+                    <td>打印精度：</td>
+                    <td>0.05（取决于切片设置）</td>
+                </tr>
+                <tr>
+                    <td>打印速度：</td>
+                    <td>30-150mm/s</td>
+                </tr>
+                <tr>
+                    <td>成型层厚：</td>
+                    <td>0.15～0.35mm</td>
+                </tr>
+                <tr>
+                    <td>喷头温度：</td>
+                    <td>0～210℃ </td>
+                </tr>
+                <tr>
+                    <td>定位精度：</td>
+                    <td>0.01mm</td>
+                </tr>
+                <tr>
+                    <td>喷嘴直径：</td>
+                    <td>0.4mm</td>
+                </tr>
+                <tr>
+                    <td>喷头系统：</td>
+                    <td>单喷头  </td>
+                </tr>
+                <tr>
+                    <td>成型材料：</td>
+                    <td>PLA </td>
+                </tr>
+                <tr>
+                    <td>产品净重：</td>
+                    <td>13KG  </td>
+                </tr>
+            </table>
+        </fieldset>
+    </form>
+</div>
+</body>
+</html>
